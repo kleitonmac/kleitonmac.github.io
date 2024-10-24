@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz de Perguntas e Respostas</title>
+    <link rel="stylesheet" href="ext.css">
+</head>
+<body>
+
+<header>
+    <ul class="navbar">
+        <li><a href="https://kleitonmac.github.io/index.html/" class="active">Home</a></li>
+        <li><a href="../sobre/sobre.html">Portifólio</a></li>
+        <li><a href="../projeto-one-piece.html/onepiece.html">One Piece</a></li>
+        
+    </ul>
+</header>
+
+<div class="quiz-container">
+    <div class="quiz-header">
+        <h2 id="quiz-title">Quiz de Conhecimentos Gerais</h2>
+        <p id="quiz-question">Qual a capital da França?</p>
+    </div>
+
+    <ul class="quiz-options">
+        <li>
+            <label>
+                <input type="radio" name="question" value="1" id="option1">
+                <span id="option1Text">Paris</span>
+            </label>
+        </li>
+        <li>
+            <label>
+                <input type="radio" name="question" value="2" id="option2">
+                <span id="option2Text">Madri</span>
+            </label>
+        </li>
+        <li>
+            <label>
+                <input type="radio" name="question" value="3" id="option3">
+                <span id="option3Text">Lisboa</span>
+            </label>
+        </li>
+        <li>
+            <label>
+                <input type="radio" name="question" value="4" id="option4">
+                <span id="option4Text">Bruxelas</span>
+            </label>
+        </li>
+    </ul>
+
+    <div class="quiz-footer">
+        <button id="nextBtn">Próximo</button>
+        <button id="exitBtn">Sair</button>
+        <a href="https://kleitonmac.github.io/index.html" class="logo"><span>Voltar</span></a>
+
+        <div class="result" id="result"></div>
+    </div>
+</div>
+
+<script src="ext.js"></script>
+</body>
+</html>
