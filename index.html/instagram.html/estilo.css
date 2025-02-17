@@ -1,0 +1,279 @@
+:root {
+    --bg-color: #1f1f21;
+    --text-color: #050505;
+    --main-color: #37d0ff;
+    --big-font: 6rem;
+    --p-font: 1.1rem;
+}
+
+
+header {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: transparent;
+    transition: all ease 0.45s;
+}
+
+.navbar {
+    display: flex;
+}
+
+.navbar a {
+    font-size: var(--p-font);
+    font-weight: 500;
+    color: var(--text-color);
+    margin: 0 25px;
+    transition: all ease 0.5s;
+}
+
+.navbar a:hover {
+    color: var(--main-color);
+    text-decoration: none;
+    box-shadow: none;
+}
+
+.navbar a.active {
+    color: var(--main-color);
+
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #333;
+    font-size: 16px;
+    transition: color 0.3s;
+}
+
+ul li a:hover {
+    color: #e9fa02;
+    /* Cor ao passar o mouse sobre os links */
+}
+
+
+.logo span {
+    color: var(--main-color);
+}
+
+.navbar {
+    display: flex;
+}
+
+
+.navbar a:hover {
+    color: var(--main-color);
+    text-decoration: none;
+    box-shadow: none;
+}
+
+.navbar a.active {
+    color: var(--main-color);
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FAFAFA;
+    /* COR DE FUNDO*/
+    width: 100vw;
+    /* LARGURA */
+    height: 100vh;
+    /* ALTURA */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+}
+
+.insta-logo {
+    margin-bottom: 20px;
+}
+
+.caixa-imagens {
+    position: relative;
+    /* Como vamos posicionar os elementos */
+}
+
+.imagem-celular {
+    width: 450px;
+}
+
+.imagem-insta {
+    height: 520px;
+    position: absolute;
+    left: 153px;
+    top: 26px;
+}
+
+.caixa-form {
+    width: 350px;
+    border: 1px solid #dbdbdb;
+    padding: 50px 40px 20px 40px;
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+}
+
+.outros {
+    align-items: center;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    box-sizing: border-box;
+    color: rgb(168, 168, 168);
+    direction: ltr;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 0;
+    flex-shrink: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-feature-settings: normal;
+    font-kerning: auto;
+    font-optical-sizing: auto;
+    font-size: 13px;
+    font-size-adjust: none;
+    font-stretch: 100%;
+    font-style: normal;
+    font-variant-alternates: normal;
+    font-variant-caps: normal;
+    font-variant-east-asian: normal;
+    font-variant-emoji: normal;
+    font-variant-ligatures: normal;
+    font-variant-numeric: normal;
+    font-variant-position: normal;
+    font-variation-settings: normal;
+    font-weight: 600;
+    height: 14.9844px;
+    line-height: 14.9994px;
+    margin-bottom: 0px;
+    margin-left: 18px;
+    margin-right: 18px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    position: relative;
+
+}
+
+
+
+.img {
+    color: rgb(245, 245, 245);
+    color-scheme: dark;
+    direction: ltr;
+    display: flex;
+    flex-direction: column;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    height: 95px;
+    line-height: 18px;
+    text-size-adjust: 100%;
+    unicode-bidi: isolate;
+    width: auto;
+    /* Defina um valor apropriado, como auto, 100%, px, etc. */
+
+
+
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centraliza verticalmente */
+    align-items: center; /* Centraliza horizontalmente */
+    height: 10vh; /* Faz o container ocupar a tela inteira (opcional) */
+    text-align: center;
+   
+}
+
+p, span,b {
+    text-align: center;
+    text-decoration: none;
+}
+
+span {
+    color: #004ff8;
+    
+}
+
+p {
+    position: relative;
+    top: 20px;
+}
+
+.img {
+    display: inline-block;
+    justify-content: center;
+    gap: 10px; /* Espaço entre as imagens */
+    margin-top: 40px;
+}
+
+.google-botao,
+.ios-botao {
+    width: 125px; /* Ajuste conforme necessário */
+    height: auto;
+}
+
+
+input {
+    height: 36px;
+    margin-top: 5px;
+    border: 1px solid #dbdbdb;
+    border-radius: 5px;
+    outline: none;
+    padding-left: 5px;
+    color: #262626;
+}
+
+button {
+    background-color: #0095f6;
+    color: #ffffff;
+    border-radius: 5px;
+    border: none;
+    height: 30px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.login-facebook {
+    color: #385185;
+    font-size: 14px;
+    /* TAMANHO DA FONTE */
+    font-weight: bold;
+    /* ESPESSURA DA FONTE / BOLD = NEGRITO*/
+    text-align: center;
+    /* ALINHAMENTO DO TEXTO */
+    margin-top: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.esqueceu-senha {
+    color: #385185;
+    text-align: center;
+    font-size: 12px;
+    cursor: pointer;
+}
