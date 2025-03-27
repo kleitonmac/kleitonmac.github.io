@@ -99,7 +99,7 @@ function App() {
               <div className="relative">
                 <div className="absolute inset-0 bg-gradient-to-r from-purple-500 to-purple-900 rounded-full blur-3xl opacity-20"></div>
                 <img
-                  src="../src/img/kleiton.jpg"
+                  src="https://scontent.fvix7-1.fna.fbcdn.net/v/t39.30808-6/487128882_2935667073273055_3683984472563376216_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=hBeO0uzMhlkQ7kNvgG358IO&_nc_oc=AdkMMqCBtJy2eTPgL1GY3wFRHwIHOxW4_7SpoCgFPSGMRMLCqpTs5w_3lOxBq1ZzRKAfyQBPuF1qoY0BCddhStDo&_nc_zt=23&_nc_ht=scontent.fvix7-1.fna&_nc_gid=ZcOgv6-9nqYqMQjq6QRV_g&oh=00_AYFubhx81JpYao0ZhwNJQEEoPMF_671l-mz8etMsVLf6nA&oe=67EB8123"
                   alt="perfil"
                   className="relative rounded-2xl shadow-xl animate-float"
                 />
