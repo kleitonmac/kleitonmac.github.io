@@ -102,9 +102,9 @@ Contrate - me
     <div className="relative" >
       <div className="absolute inset-0 bg-gradient-to-r from-purple-500 to-purple-900 rounded-full blur-3xl opacity-20" > </div>
         < img
-src = "./img/perfil.png"
+src = "/src/img/perfil.png"
 alt = "perfil"
-className = "relative rounded-2xl shadow-xl animate-float"
+className = "relative rounded-2xl shadow-xl animate-float w-50 max-w-sm mx-auto md:max-w-50"
   />
   </div>
   </div>
