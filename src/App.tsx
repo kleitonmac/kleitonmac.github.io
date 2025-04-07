@@ -65,7 +65,7 @@ function App() {
   <div className="container mx-auto px-4" >
     <div className="flex flex-col md:flex-row items-center gap-12" >
       <div className="flex-1 text-center md:text-left" >
-        <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-purple-900/30 text-purple-400 mb-6" >
+        <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-purple-900/30 text-white mb-6" >
           <Code size={ 20 } />
             < span className = "font-medium" > Software Developer </span>
               </div>
