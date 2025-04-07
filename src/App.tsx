@@ -78,7 +78,7 @@ function App() {
               </p>
   < div className = "flex flex-col sm:flex-row gap-4 justify-center md:justify-start" >
     <a
-                  href="/CV_Kleiton.pdf"
+                  href="/src/cv/kleiton.pdf"
 download
 className = "gradient-border inline-block"
   >
