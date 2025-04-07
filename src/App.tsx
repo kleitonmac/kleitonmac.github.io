@@ -102,7 +102,7 @@ Contrate - me
     <div className="relative" >
       <div className="absolute inset-0 bg-gradient-to-r from-purple-500 to-purple-900 rounded-full blur-3xl opacity-20" > </div>
         < img
-src = "/src/img/perfil.png"
+src = "https://scontent.fvix7-1.fna.fbcdn.net/v/t39.30808-6/487128882_2935667073273055_3683984472563376216_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ZqPH-v9VBY4Q7kNvwH4RU3W&_nc_oc=Adnk5zQRHfuPL-ACnfyI6XpZXDSVsEAibnZ1_0E--6IPVZa8vWGh6U0TIuuHnAR15kLk7Bg3GFIrHXaRESDVM8Rm&_nc_zt=23&_nc_ht=scontent.fvix7-1.fna&_nc_gid=9yEEJtByBXa7zdCimtEwTw&oh=00_AfE1brCzjtmNjwzeWOudFIiDDewM4ZhzdRJOH7NBXs1zlQ&oe=67F8E863"
 alt = "perfil"
 className = "relative rounded-2xl shadow-xl animate-float w-50 max-w-sm mx-auto md:max-w-50"
   />
