@@ -67,7 +67,7 @@ function App() {
       <div className="flex-1 text-center md:text-left" >
         <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-purple-900/30 text-white mb-6" >
           <Code size={ 20 } />
-            < span className = "font-medium" > Software Developer </span>
+            < span className = "font-medium text-white" > Software Developer </span>
               </div>
               < h1 className = "text-5xl md:text-6xl font-bold mb-6" >
                 <span className="gradient-text" > Kleiton Macedo </span>
