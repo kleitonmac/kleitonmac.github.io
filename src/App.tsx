@@ -73,7 +73,7 @@ function App() {
                 <span className="gradient-text" > Kleiton Macedo </span>
                   </h1>
                   < p className = "text-lg text-slate-300 mb-8 leading-relaxed" >
-                    Desenvolvedor Front - End apaixonado por criar experiências digitais únicas.
+                    Desenvolvedor Full-Stack apaixonado por criar experiências digitais únicas.
                 Transformando ideias em código com criatividade e precisão.
               </p>
   < div className = "flex flex-col sm:flex-row gap-4 justify-center md:justify-start" >
