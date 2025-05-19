@@ -102,7 +102,7 @@ Contrate - me
     <div className="relative" >
       <div className="absolute inset-0 bg-gradient-to-r from-purple-500 to-purple-900 rounded-full blur-3xl opacity-20" > </div>
         < img
-src = "/src/img/kleiton.jpg"
+src = "./src/img/kleiton.jpg"
 alt = "perfil"
 className = "relative rounded-2xl shadow-xl animate-float w-50 max-w-sm mx-auto md:max-w-50"
   />
@@ -166,7 +166,14 @@ className = "relative rounded-2xl shadow-xl animate-float w-50 max-w-sm mx-auto 
                     image: "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800",
                     link: "https://cafeteriagraoearoma.vercel.app/",
                     tags: ["React", "Estilo-componetes"]
-                  }
+                  },
+                   {
+                    title: "Consórcio Dev",
+                    description: "Site criado para vendas de carros",
+                    image: "/src/img/banner_veiculo.jpg",
+                    link: "https://github.com/kleitonmac/carros-dev",
+                    tags: ["Python","Django", "Estilo-componetes"]
+                  },
                 ].map((project, index) => (
                   <a
                 key= { index }
