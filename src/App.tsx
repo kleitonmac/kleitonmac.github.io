@@ -102,7 +102,7 @@ Contrate - me
     <div className="relative" >
       <div className="absolute inset-0 bg-gradient-to-r from-purple-500 to-purple-900 rounded-full blur-3xl opacity-20" > </div>
         < img
-src = "./src/img/kleiton.jpg"
+src = "https://scontent.fvix7-1.fna.fbcdn.net/v/t39.30808-6/487128882_2935667073273055_3683984472563376216_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3xECqcY3fc8Q7kNvwGCtcmA&_nc_oc=Adl82-nujoJiGjR1BpnD1vBzSv3XokK3kntPEMZGlZElSKJBzO005Rp-IdY6UaYIhs-zzHOMFeJ84gyyRf2kGnJd&_nc_zt=23&_nc_ht=scontent.fvix7-1.fna&_nc_gid=ayMX8fV1rZfHJ3ZzPyNkow&oh=00_AfJQyfXvg1lCEsKopnu7SVTgiBZDtvxtwpefTbPWyPzSTA&oe=683160A3"
 alt = "perfil"
 className = "relative rounded-2xl shadow-xl animate-float w-50 max-w-sm mx-auto md:max-w-50"
   />
@@ -163,7 +163,7 @@ className = "relative rounded-2xl shadow-xl animate-float w-50 max-w-sm mx-auto 
                    {
                     title: "Consórcio Dev",
                     description: "Site criado para vendas de carros",
-                    image: "https://br.freepik.com/fotos-gratis/disposicao-da-vista-frontal-dos-elementos-economicos_11621167.htm#fromView=search&page=1&position=2&uuid=b1172f11-2956-4be3-8db2-4d9125c334c1&query=consorcio",
+                    image: "https://scontent.fvix7-1.fna.fbcdn.net/v/t39.30808-6/487128882_2935667073273055_3683984472563376216_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3xECqcY3fc8Q7kNvwGCtcmA&_nc_oc=Adl82-nujoJiGjR1BpnD1vBzSv3XokK3kntPEMZGlZElSKJBzO005Rp-IdY6UaYIhs-zzHOMFeJ84gyyRf2kGnJd&_nc_zt=23&_nc_ht=scontent.fvix7-1.fna&_nc_gid=ayMX8fV1rZfHJ3ZzPyNkow&oh=00_AfJQyfXvg1lCEsKopnu7SVTgiBZDtvxtwpefTbPWyPzSTA&oe=683160A3",
                     link: "https://github.com/kleitonmac/carros-dev",
                     tags: ["Python","Django", "Estilo-componetes"]
                   },
