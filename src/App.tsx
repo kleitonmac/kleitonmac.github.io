@@ -147,13 +147,6 @@ className = "relative rounded-2xl shadow-xl animate-float w-50 max-w-sm mx-auto 
                     tags: ["HTML5", "CSS3", "JavaScript"]
                   },
                   {
-                    title: "Conversor de Moedas",
-                    description: "Conversor de moedas em tempo real com interface intuitiva",
-                    image: "https://images.unsplash.com/photo-1580519542036-c47de6196ba5?auto=format&fit=crop&w=800",
-                    link: "https://github.com/kleitonmac/convesor-de-moedas",
-                    tags: ["React", "API", "Financia"]
-                  },
-                  {
                     title: "Barbearia Novo Estilo",
                     description: "Site moderno para barbearia com agendamento online",
                     image: "https://images.unsplash.com/photo-1585747860715-2ba37e788b70?auto=format&fit=crop&w=800",
@@ -173,6 +166,13 @@ className = "relative rounded-2xl shadow-xl animate-float w-50 max-w-sm mx-auto 
                     image: "https://www.facebook.com/photo.php?fbid=133956108792881&id=101691785352647&set=a.101745908680568&locale=et_EE",
                     link: "https://github.com/kleitonmac/carros-dev",
                     tags: ["Python","Django", "Estilo-componetes"]
+                  },
+                   {
+                    title: "Conversor de Moedas",
+                    description: "Conversor de moedas em tempo real com interface intuitiva",
+                    image: "https://images.unsplash.com/photo-1580519542036-c47de6196ba5?auto=format&fit=crop&w=800",
+                    link: "https://github.com/kleitonmac/convesor-de-moedas",
+                    tags: ["React", "API", "Financia"]
                   },
                 ].map((project, index) => (
                   <a
