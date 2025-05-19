@@ -163,7 +163,7 @@ className = "relative rounded-2xl shadow-xl animate-float w-50 max-w-sm mx-auto 
                    {
                     title: "Consórcio Dev",
                     description: "Site criado para vendas de carros",
-                    image: "https://www.facebook.com/photo.php?fbid=133956108792881&id=101691785352647&set=a.101745908680568&locale=et_EE",
+                    image: "https://br.freepik.com/fotos-gratis/disposicao-da-vista-frontal-dos-elementos-economicos_11621167.htm#fromView=search&page=1&position=2&uuid=b1172f11-2956-4be3-8db2-4d9125c334c1&query=consorcio",
                     link: "https://github.com/kleitonmac/carros-dev",
                     tags: ["Python","Django", "Estilo-componetes"]
                   },
