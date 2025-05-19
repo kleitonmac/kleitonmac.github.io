@@ -163,7 +163,7 @@ className = "relative rounded-2xl shadow-xl animate-float w-50 max-w-sm mx-auto 
                    {
                     title: "Consórcio Dev",
                     description: "Site criado para vendas de carros",
-                    image: "https://scontent.fvix7-1.fna.fbcdn.net/v/t39.30808-6/487128882_2935667073273055_3683984472563376216_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3xECqcY3fc8Q7kNvwGCtcmA&_nc_oc=Adl82-nujoJiGjR1BpnD1vBzSv3XokK3kntPEMZGlZElSKJBzO005Rp-IdY6UaYIhs-zzHOMFeJ84gyyRf2kGnJd&_nc_zt=23&_nc_ht=scontent.fvix7-1.fna&_nc_gid=ayMX8fV1rZfHJ3ZzPyNkow&oh=00_AfJQyfXvg1lCEsKopnu7SVTgiBZDtvxtwpefTbPWyPzSTA&oe=683160A3",
+                    image: "https://scontent.fvix7-1.fna.fbcdn.net/v/t45.5328-4/469240121_1318430292909450_4516906728469132984_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=247b10&_nc_ohc=AAOcN2dAxXcQ7kNvwGDeHSv&_nc_oc=AdmPy_1nwEkkMCzi7t7DHbXxW_ePecR3hj35Bg-YQpY6wFrt6DPwWo47zY8dul-txmAcWiuQ_POd97hx0oebOf86&_nc_zt=23&_nc_ht=scontent.fvix7-1.fna&_nc_gid=h8elSBnrWv6sgr9mFWYyJw&oh=00_AfKr-U8J8CucQtZzKgJ9Y-w6BewyUC-46fZwg-E-ECqtFQ&oe=68317166",
                     link: "https://github.com/kleitonmac/carros-dev",
                     tags: ["Python","Django", "Estilo-componetes"]
                   },
